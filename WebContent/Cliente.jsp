@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Cliente</title>
+<title>Cliente VIP</title>
 </head>
 <body>
 	<%Cliente cliente = (Cliente)request.getAttribute("cliente"); %>
